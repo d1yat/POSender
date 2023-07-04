@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSender", "POSender\POSender.csproj", "{1D81A7DF-9FA4-40EF-B2DD-F9462E4B688B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSenderClient", "POSenderClient\POSenderClient.csproj", "{FBD0280E-8846-44F0-A98C-106EACB0260D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D81A7DF-9FA4-40EF-B2DD-F9462E4B688B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D81A7DF-9FA4-40EF-B2DD-F9462E4B688B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D81A7DF-9FA4-40EF-B2DD-F9462E4B688B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D81A7DF-9FA4-40EF-B2DD-F9462E4B688B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD0280E-8846-44F0-A98C-106EACB0260D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD0280E-8846-44F0-A98C-106EACB0260D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD0280E-8846-44F0-A98C-106EACB0260D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD0280E-8846-44F0-A98C-106EACB0260D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
